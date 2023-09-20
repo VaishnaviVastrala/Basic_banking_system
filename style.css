@@ -1,0 +1,74 @@
+/* Thematic CSS styles for a "Pastel" theme */
+
+/* Body and general styles */
+body {
+    background-color: #f5f5f5; /* Light grayish background */
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Navigation bar styles */
+.nav_top {
+    background-color: #66a5ad; /* Soft aqua color */
+    color: #fff;
+}
+
+.nav_side a {
+    color: #333;
+}
+
+/* Main content styles */
+.main_content {
+    background-color: #fff; /* White background */
+    color: #333;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.main h2 {
+    color: #66a5ad; /* Aqua header text color */
+}
+
+/* Product section styles */
+.product {
+    background-color: #f4cc70; /* Soft yellow background */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.product h2 {
+    color: #333;
+}
+
+.product_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    background-color: #ff847c; /* Soft coral background */
+    padding: 20px;
+    border-radius: 10px;
+    flex: 1;
+    margin: 10px;
+    text-align: center;
+}
+
+.item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Additional custom styles */
+/* Add your custom styles here */
+
